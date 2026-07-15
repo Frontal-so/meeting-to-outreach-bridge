@@ -2,6 +2,8 @@
 
 Catches a Calendly "meeting booked" webhook, adds the booker to a Lemlist LinkedIn campaign, and hands their company domain off to Clay.
 
+[See the full write-up](https://claude.ai/code/artifact/76511bf9-c4db-48a1-932e-74a56adc983d) for the short version of this README with the real payload and what to build in Clay.
+
 ## What it does, and what it doesn't
 
 1. Someone books a call via Calendly. Calendly fires a webhook.
